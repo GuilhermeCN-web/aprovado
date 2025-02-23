@@ -1,0 +1,59 @@
+D:\Fatec\VS Code\obj\Debug\net7.0\VS Code.csproj.AssemblyReference.cache
+D:\Fatec\VS Code\obj\Debug\net7.0\VS Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\VS Code\obj\Debug\net7.0\VS Code.AssemblyInfoInputs.cache
+D:\Fatec\VS Code\obj\Debug\net7.0\VS Code.AssemblyInfo.cs
+D:\Fatec\VS Code\obj\Debug\net7.0\VS Code.csproj.CoreCompileInputs.cache
+D:\Fatec\VS Code\bin\Debug\net7.0\VS Code.exe
+D:\Fatec\VS Code\bin\Debug\net7.0\VS Code.deps.json
+D:\Fatec\VS Code\bin\Debug\net7.0\VS Code.runtimeconfig.json
+D:\Fatec\VS Code\bin\Debug\net7.0\VS Code.dll
+D:\Fatec\VS Code\bin\Debug\net7.0\VS Code.pdb
+D:\Fatec\VS Code\obj\Debug\net7.0\VS Code.dll
+D:\Fatec\VS Code\obj\Debug\net7.0\refint\VS Code.dll
+D:\Fatec\VS Code\obj\Debug\net7.0\VS Code.pdb
+D:\Fatec\VS Code\obj\Debug\net7.0\VS Code.genruntimeconfig.cache
+D:\Fatec\VS Code\obj\Debug\net7.0\ref\VS Code.dll
+D:\Fatec\Desenvolvimento de Sistemas\Variáveis\obj\Debug\net7.0\VS Code.pdb
+D:\Fatec\Desenvolvimento de Sistemas\Variáveis\bin\Debug\net7.0\VS Code.exe
+D:\Fatec\Desenvolvimento de Sistemas\Variáveis\bin\Debug\net7.0\VS Code.deps.json
+D:\Fatec\Desenvolvimento de Sistemas\Variáveis\bin\Debug\net7.0\VS Code.runtimeconfig.json
+D:\Fatec\Desenvolvimento de Sistemas\Variáveis\bin\Debug\net7.0\VS Code.dll
+D:\Fatec\Desenvolvimento de Sistemas\Variáveis\bin\Debug\net7.0\VS Code.pdb
+D:\Fatec\Desenvolvimento de Sistemas\Variáveis\obj\Debug\net7.0\VS Code.csproj.AssemblyReference.cache
+D:\Fatec\Desenvolvimento de Sistemas\Variáveis\obj\Debug\net7.0\VS Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\Desenvolvimento de Sistemas\Variáveis\obj\Debug\net7.0\VS Code.AssemblyInfoInputs.cache
+D:\Fatec\Desenvolvimento de Sistemas\Variáveis\obj\Debug\net7.0\VS Code.AssemblyInfo.cs
+D:\Fatec\Desenvolvimento de Sistemas\Variáveis\obj\Debug\net7.0\VS Code.csproj.CoreCompileInputs.cache
+D:\Fatec\Desenvolvimento de Sistemas\Variáveis\obj\Debug\net7.0\VS Code.dll
+D:\Fatec\Desenvolvimento de Sistemas\Variáveis\obj\Debug\net7.0\refint\VS Code.dll
+D:\Fatec\Desenvolvimento de Sistemas\Variáveis\obj\Debug\net7.0\VS Code.genruntimeconfig.cache
+D:\Fatec\Desenvolvimento de Sistemas\Variáveis\obj\Debug\net7.0\ref\VS Code.dll
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\obj\Debug\net7.0\VS Code.csproj.AssemblyReference.cache
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\obj\Debug\net7.0\VS Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\obj\Debug\net7.0\VS Code.AssemblyInfoInputs.cache
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\obj\Debug\net7.0\VS Code.AssemblyInfo.cs
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\obj\Debug\net7.0\VS Code.csproj.CoreCompileInputs.cache
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\obj\Debug\net7.0\VS Code.dll
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\obj\Debug\net7.0\refint\VS Code.dll
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\obj\Debug\net7.0\VS Code.pdb
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\bin\Debug\net7.0\VS Code.exe
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\bin\Debug\net7.0\VS Code.deps.json
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\bin\Debug\net7.0\VS Code.runtimeconfig.json
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\bin\Debug\net7.0\VS Code.dll
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\bin\Debug\net7.0\VS Code.pdb
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\obj\Debug\net7.0\VS Code.genruntimeconfig.cache
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\obj\Debug\net7.0\ref\VS Code.dll
+D:\Etec\inativo\Desenvolvimento de Sistemas(C#)\Aprovado\bin\Debug\net7.0\VS Code.exe
+D:\Etec\inativo\Desenvolvimento de Sistemas(C#)\Aprovado\bin\Debug\net7.0\VS Code.deps.json
+D:\Etec\inativo\Desenvolvimento de Sistemas(C#)\Aprovado\bin\Debug\net7.0\VS Code.runtimeconfig.json
+D:\Etec\inativo\Desenvolvimento de Sistemas(C#)\Aprovado\bin\Debug\net7.0\VS Code.dll
+D:\Etec\inativo\Desenvolvimento de Sistemas(C#)\Aprovado\bin\Debug\net7.0\VS Code.pdb
+D:\Etec\inativo\Desenvolvimento de Sistemas(C#)\Aprovado\obj\Debug\net7.0\VS Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\Etec\inativo\Desenvolvimento de Sistemas(C#)\Aprovado\obj\Debug\net7.0\VS Code.AssemblyInfoInputs.cache
+D:\Etec\inativo\Desenvolvimento de Sistemas(C#)\Aprovado\obj\Debug\net7.0\VS Code.AssemblyInfo.cs
+D:\Etec\inativo\Desenvolvimento de Sistemas(C#)\Aprovado\obj\Debug\net7.0\VS Code.csproj.CoreCompileInputs.cache
+D:\Etec\inativo\Desenvolvimento de Sistemas(C#)\Aprovado\obj\Debug\net7.0\VS Code.dll
+D:\Etec\inativo\Desenvolvimento de Sistemas(C#)\Aprovado\obj\Debug\net7.0\refint\VS Code.dll
+D:\Etec\inativo\Desenvolvimento de Sistemas(C#)\Aprovado\obj\Debug\net7.0\VS Code.pdb
+D:\Etec\inativo\Desenvolvimento de Sistemas(C#)\Aprovado\obj\Debug\net7.0\VS Code.genruntimeconfig.cache
+D:\Etec\inativo\Desenvolvimento de Sistemas(C#)\Aprovado\obj\Debug\net7.0\ref\VS Code.dll

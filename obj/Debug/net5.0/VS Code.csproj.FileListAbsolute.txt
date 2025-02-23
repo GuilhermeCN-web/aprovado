@@ -1,0 +1,16 @@
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\obj\Debug\net5.0\VS Code.csproj.AssemblyReference.cache
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\obj\Debug\net5.0\VS Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\obj\Debug\net5.0\VS Code.AssemblyInfoInputs.cache
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\obj\Debug\net5.0\VS Code.AssemblyInfo.cs
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\obj\Debug\net5.0\VS Code.csproj.CoreCompileInputs.cache
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\bin\Debug\net5.0\VS Code.exe
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\bin\Debug\net5.0\VS Code.deps.json
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\bin\Debug\net5.0\VS Code.runtimeconfig.json
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\bin\Debug\net5.0\VS Code.runtimeconfig.dev.json
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\bin\Debug\net5.0\VS Code.dll
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\bin\Debug\net5.0\ref\VS Code.dll
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\bin\Debug\net5.0\VS Code.pdb
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\obj\Debug\net5.0\VS Code.dll
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\obj\Debug\net5.0\ref\VS Code.dll
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\obj\Debug\net5.0\VS Code.pdb
+D:\Fatec\Desenvolvimento de Sistemas\Números - Copia\obj\Debug\net5.0\VS Code.genruntimeconfig.cache
